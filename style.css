@@ -72,7 +72,7 @@
 
 }
 .back{
-    position: relative;
+    position: absolute;
     margin-top: 40px;
     hight:200px
 }
