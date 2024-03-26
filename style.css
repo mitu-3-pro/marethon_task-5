@@ -72,9 +72,9 @@
 
 }
 .back{
-    position: absolute;
+    position: relative;
     margin-top: 40px;
-    hight:230px
+    hight:200px
 }
 .div-2{
     position: relative;
