@@ -75,6 +75,7 @@
 .back{
     position: absolute;
     margin-top: 40px;
+    width: 100%;
 }
 .div-2{
     position: relative;
