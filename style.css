@@ -45,7 +45,12 @@
     padding: 20px;
     border-bottom-left-radius: 200px;
     border-bottom-right-radius: 200px;
-}
+    }
+    .back{
+    position: absolute;
+    margin-top: 40px;
+    width:100%;
+    }
 }
 @media (prefers-reduced-motion:no-preference) {
     :root {
