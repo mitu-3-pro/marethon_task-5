@@ -1,0 +1,184 @@
+@media only screen and (min-width: 600px) {
+    /* For tablets: */
+    .col-s-1 {width: 8.33%;}
+    .col-s-2 {width: 16.66%;}
+    .col-s-3 {width: 25%;}
+    .col-s-4 {width: 33.33%;}
+    .col-s-5 {width: 41.66%;}
+    .col-s-6 {width: 50%;}
+    .col-s-7 {width: 58.33%;}
+    .col-s-8 {width: 66.66%;}
+    .col-s-9 {width: 75%;}
+    .col-s-10 {width: 83.33%;}
+    .col-s-11 {width: 91.66%;}
+    .col-s-12 {width: 100%;}
+}
+@media only screen and (min-width: 768px) {
+    /* For desktop: */
+    .col-1 {width: 8.33%;}
+    .col-2 {width: 16.66%;}
+    .col-3 {width: 25%;}
+    .col-4 {width: 33.33%;}
+    .col-5 {width: 41.66%;}
+    .col-6 {width: 50%;}
+    .col-7 {width: 58.33%;}
+    .col-8 {width: 66.66%;}
+    .col-9 {width: 75%;}
+    .col-10 {width: 83.33%;}
+    .col-11 {width: 91.66%;}
+    .col-12 {width: 100%;}
+}
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    [class*="col-"] {
+      width: 100%;
+    }
+}
+@media (prefers-reduced-motion:no-preference) {
+    :root {
+        scroll-behavior: smooth;
+    }
+}
+@media (min-width: 1200px) {
+    .container{
+        font-size: 2.5rem;
+    }
+}
+.container{
+    position: absolute;
+    width:100%;
+    height: 100%;
+    background-size: cover;
+    top: 0px;
+}
+.div-1{
+    position: relative;
+    max-width: auto;
+}
+.box{
+    position: absolute;
+    background-color: rgb(36, 76, 83);
+    height: 45px;
+    width: 50px;
+    margin-top: 30px;
+    border-top: 5px black;
+}
+.text-1{
+    position: relative;
+    width: 400px;
+    font-size: 40px;
+    top: 20px;
+    margin-left: 70px;
+
+}
+.back{
+    position: absolute;
+    margin-top: 40px;
+}
+.div-2{
+    position: relative;
+    top: 700px;
+    width: 750px;
+    height: 430px;
+}
+.number{
+    position: absolute;
+    font-size: 60px;
+    font-weight: 500;
+    margin-top: 20px;
+    color: rgb(224, 52, 9);
+    text-shadow: 1px 1px black;
+}
+.num-1{
+    margin-top: -10px;
+}
+.num-2{
+    margin-top: 35px;
+}
+.num-3{
+    margin-top: 35px;
+}
+.heding-1{
+    position: absolute;
+    margin-left: 200px;
+    font-size: 30px;
+    font-weight: 900;
+    margin-top: -30px;
+    color: rgb(36, 76, 83);
+}
+.text-2{
+    position: relative;
+    top: 30px;
+    font-size: 20px;
+    font-weight: 700;
+    color: rgb(36, 76, 83);
+}
+.content{
+    position: relative;
+    /* margin-left: 70px; */
+    top: 30px;
+}
+.line{
+    background-color: rgb(172, 40, 7);
+    padding: 7px;
+    width: 1315px;
+    margin-top: 70px;
+}
+.we{
+    position: absolute;
+    background-color: rgb(36, 76, 83, 0.8);
+    color: white;
+    font-size: 60px;
+    width: 450px;
+    height: 330px;
+    right: 40px;
+    margin-top: -490px;
+    padding: 20px;
+    border-bottom-left-radius: 200px;
+    border-bottom-right-radius: 200px;
+}
+.about-us{
+    position: absolute;
+    background-color: rgb(36, 76, 83);
+    color: white;
+    width: 450px;
+    height: 180px;
+    right: 40px;
+    margin-top: 230px;
+    padding: 20px;
+}
+.heding-2{
+    font-size: 20px;
+    font-weight: 500;
+}
+.content-2{
+    margin-top: -5px;
+}
+.contect-us{
+    position: absolute;
+    background-color:rgb(172, 40, 7);
+    color: white;
+    width: 450px;
+    height: 200px;
+    right: 40px;
+    margin-top: 410px;
+    padding: 20px;
+}
+.heding-3{
+    font-size: 20px;
+    font-weight: 500;
+}
+.content-3{
+    margin-top: -5px;
+}
+.web-url{
+    position: absolute;
+    background-color: rgb(211, 209, 209);
+    color: blue;
+    width: 450px;
+    height: 90px;
+    right: 40px;
+    margin-top: 610px;
+    padding: 30px;
+    font-size: 20px;
+}
