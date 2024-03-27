@@ -80,7 +80,7 @@
 .div-2{
     position: relative;
     top: 700px;
-    width: 750px;
+    width: 720px;
     height: 430px;
 }
 .number{
@@ -133,7 +133,7 @@
     font-size: 60px;
     width: 450px;
     height: 330px;
-    right: 40px;
+    right: 100px;
     margin-top: -490px;
     padding: 20px;
     border-bottom-left-radius: 200px;
@@ -145,7 +145,7 @@
     color: white;
     width: 450px;
     height: 180px;
-    right: 40px;
+    right: 100px;
     margin-top: 230px;
     padding: 20px;
 }
@@ -162,7 +162,7 @@
     color: white;
     width: 450px;
     height: 200px;
-    right: 40px;
+    right: 100px;
     margin-top: 410px;
     padding: 20px;
 }
@@ -179,7 +179,7 @@
     color: blue;
     width: 450px;
     height: 90px;
-    right: 40px;
+    right: 100px;
     margin-top: 610px;
     padding: 30px;
     font-size: 20px;
